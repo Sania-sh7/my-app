@@ -1,0 +1,10 @@
+.fix {
+    margin-top: 20px;
+}
+.full {
+    height: 98%;
+    background: rgba(255, 255, 255, 0.9);
+}
+.full:hover {
+    background: rgba(255, 255, 255, 0.96);
+}

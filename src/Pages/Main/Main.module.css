@@ -1,0 +1,33 @@
+.InputGroup {
+    /*max-width: 40%;*/
+    margin: 60px auto;
+}
+.h1 {
+    margin-top: 60px;
+    color: white;
+    font-weight: bold;
+    font-size: 64px;
+}
+.Col {
+    margin-top: 20px;
+}
+
+.FormInput {
+    background: rgba(0, 0, 0, .2);
+}
+
+.FormInput:focus {
+    background: rgba(255, 255, 255, .96);
+}
+
+.Center {
+    margin: 0px auto;
+}
+
+.Card {
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.Card:hover {
+    background: rgba(255, 255, 255, 0.96);
+}

@@ -1,0 +1,34 @@
+.fix:hover {
+    text-decoration: none;
+}
+
+.NavItem:hover {
+    /*border-radius: 10px;*/
+    /*background: linear-gradient(90deg, #8E2DE2, #4A00E0);*/
+}
+
+.Nav {
+    background: rgba(0, 0, 0, .5);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.FormInput {
+    background: rgba(0, 0, 0, .2);
+}
+
+.FormInput:focus {
+    background: rgba(255, 255, 255, .96);
+}
+
+.footer {
+    background: rgba(0, 0, 0, .5);
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 16px;
+    margin-top: 50px;
+}
+
+.NavbarToggler {
+    border-radius: 50%;
+}
